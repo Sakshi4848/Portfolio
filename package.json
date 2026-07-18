@@ -3,12 +3,13 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https:sakshi4848.github.io/portfolio",
-  "scripts": {
-    "dev": "vite",
-    "build": "vite build",
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d dist"
+ "homepage": "https://sakshi4848.github.io/Portfolio",
+ "scripts": {
+  "dev": "vite",
+  "build": "vite build",
+  "predeploy": "npm run build",
+  "deploy": "gh-pages -d dist"
+
   },
   "dependencies": {
     "@google/genai": "^2.4.0",
